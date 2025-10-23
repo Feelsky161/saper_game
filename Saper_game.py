@@ -62,7 +62,7 @@ def game():
     show_field(field)
     step=player_step()
     field[step[0]][step[1]] = 1
-    show_field()
+
 
 
 
